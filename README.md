@@ -27,10 +27,4 @@ My approach combines clean architecture principles with pragmatic technology cho
 
 ### let's connect
 
-feel free to reach out, i'm always open to interesting conversations, collaboration, or just tech talk!
-
-<p align="center">
-  <a href="mailto:karoldmejiaoz@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
+Feel free to reach out through my [email](mailto:karoldmejiaoz@gmail.com)
